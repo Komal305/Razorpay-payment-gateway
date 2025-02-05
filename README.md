@@ -11,7 +11,7 @@ REST API: Implementation of RESTful services for payment processing.
 
 Installation
 Clone the repository:
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Komal305/Razorpay-payment-gateway)
+git clone https://github.com/Komal305/Razorpay-payment-gateway
 
 
 Navigate to the project directory:
